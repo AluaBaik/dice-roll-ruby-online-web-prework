@@ -4,5 +4,5 @@
 
 def roll
   ary=array.new(6,(1..6))
-  ary
+  ary[0]
 end
